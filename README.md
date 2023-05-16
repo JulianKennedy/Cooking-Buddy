@@ -1,4 +1,4 @@
-Cooking Buddy
+# Cooking Buddy
 
 A smart fridge application that lets users input their ingredients, manually or by camera, then suggests recipes they can cook.
 
